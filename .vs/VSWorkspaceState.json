@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.config",
+    "\\PetShopAPI",
+    "\\PetShopAPI\\bin",
+    "\\PetShopAPI\\Controllers",
+    "\\PetShopAPI\\Models"
+  ],
+  "SelectedNode": "\\PetShopAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
